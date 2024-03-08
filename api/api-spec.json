@@ -1,0 +1,16 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Trabea App",
+    "description": "Trabea App using Go-Lang",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:8080"
+    }
+  ],
+  "paths": {
+
+  }
+}
